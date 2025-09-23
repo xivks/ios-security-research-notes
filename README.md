@@ -20,6 +20,14 @@ The focus areas align with my ongoing research and with my Apple SRD application
 - `notes/lockdown-mode-testing.md`
 - `notes/beta-regression-checklist.md`
 
+---
+
+![Research Flow](assets/ios_research_diagram.png)
+
+*Figure: High-level flow of my iOS security research methodology.  
+Each focus area (PCC, Beta regressions, Lockdown Mode) feeds into structured testing with fuzzing, instrumentation, and static analysis.  
+All work follows strict **ethical guidelines** — research is performed responsibly, without data exfiltration, and findings are shared only through responsible disclosure channels.*
+
 ## ⚠️ Disclaimer
 These notes are for **educational and research purposes only**.  
 No active exploit code or confidential Apple intellectual property is included.
