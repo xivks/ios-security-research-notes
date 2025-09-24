@@ -28,6 +28,11 @@ The focus areas align with my ongoing research and with my Apple SRD application
 Each focus area (PCC, Beta regressions, Lockdown Mode) feeds into structured testing with fuzzing, instrumentation, and static analysis.  
 All work follows strict **ethical guidelines** — research is performed responsibly, without data exfiltration, and findings are shared only through responsible disclosure channels.*
 
+## Ethics & Experimental Trace (example)
+- Example test artifact: `ios-fuzzing-harness/results.log` (contains anonymized harness output and exception classes observed).
+- Tests are performed on local test harnesses and open-source parsers only. No Apple proprietary code or customer data is used.
+- All findings will be responsibly disclosed to vendors and Apple as per program rules.
+
 ## ⚠️ Disclaimer
 These notes are for **educational and research purposes only**.  
 No active exploit code or confidential Apple intellectual property is included.
