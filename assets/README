@@ -1,0 +1,5 @@
+## Ethics & Experimental Trace (example)
+
+- Example test artifact: `ios-fuzzing-harness/results.log` (contains anonymized harness output and exception classes observed).
+- Tests are performed on local test harnesses and open-source parsers only. No Apple proprietary code or customer data is used.
+- All findings will be responsibly disclosed to vendors and Apple as per program rules.
